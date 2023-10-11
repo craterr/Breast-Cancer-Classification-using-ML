@@ -11,6 +11,7 @@ out conditions such as cancer.
 
 
 diagnosis :
+
 0 represents the person with malignant tumor
 
 1 represents the person with benign tumor
