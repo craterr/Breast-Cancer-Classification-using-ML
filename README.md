@@ -2,7 +2,7 @@
 
 ## About The Dataset
 
-**Fine needle** aspiration is a type of biopsy procedure. In fine needle aspiration, a thin needle is
+<b>Fine needle</b> aspiration is a type of biopsy procedure. In fine needle aspiration, a thin needle is
 inserted intean area of abnormal•appearing tissue or body fluid. As with other types of
 biopsies, the sample collected during fine needle aspiration can help make a diagnosis or rule
 out conditions such as cancer.
