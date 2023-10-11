@@ -31,8 +31,9 @@ diagnosis :
 
 ->Cells are normal
 
-![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/0007e3bf-ecc7-4cc6-958d-8e6927205e6b)
 
+
+![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/25741521-4406-459d-8415-32674e5b7861)
 
 
 
@@ -47,5 +48,5 @@ diagnosis :
 ->Cells have large,dark nuclie; may have abnormal shape
 
 
-![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/1b77ca1f-ea02-48af-82d9-fadec5b577c3)
+
 
