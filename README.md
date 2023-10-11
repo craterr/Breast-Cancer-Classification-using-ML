@@ -33,7 +33,8 @@ diagnosis :
 
 
 
-![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/25741521-4406-459d-8415-32674e5b7861)
+![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/ae86ba28-c42e-498a-a12d-21392b9e0159)
+
 
 
 
