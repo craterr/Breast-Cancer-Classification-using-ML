@@ -10,7 +10,7 @@ out conditions such as cancer.
 ![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/eee70d2c-5135-4936-bebe-6e09567d0167)
 
 
-diagnosis :
+**diagnosis :**
 
 0 represents the person with malignant tumor
 
