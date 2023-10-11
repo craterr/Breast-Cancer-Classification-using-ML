@@ -7,7 +7,8 @@ inserted intean area of abnormal•appearing tissue or body fluid. As with other
 biopsies, the sample collected during fine needle aspiration can help make a diagnosis or rule
 out conditions such as cancer.
 
-![Alt text](image-2.png)
+![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/eee70d2c-5135-4936-bebe-6e09567d0167)
+
 
 diagnosis :
 0 represents the person with malignant tumor
@@ -23,7 +24,8 @@ diagnosis :
 -Slow growing
 ->Do not metastasize (spread to other parts of the body)
 ->Cells are normal
-![Alt text](image.png)
+![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/0007e3bf-ecc7-4cc6-958d-8e6927205e6b)
+
 
 ### Malignant Tumor
 
@@ -32,4 +34,5 @@ diagnosis :
 ->Metastasize (spread) to other parts of the body
 ->Cells have large,dark nuclie; may have abnormal shape
 
-![Alt text](image-1.png)
+![image](https://github.com/craterr/Breast-Cancer-Classification-using-ML/assets/106965125/1b77ca1f-ea02-48af-82d9-fadec5b577c3)
+
